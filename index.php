@@ -8,6 +8,7 @@
 	echo $buffer;
 	echo generateNav($self) . "</div>";
 ?>
+<!--Comment-->
 <div class="popular">
 	<h2 style="line-height: 0em; font: normal normal normal 46px/1em 'jockey one',sans-serif;">
 		<span style="color:#C5B358;">POPULAR<br/>UPLOADS</span>

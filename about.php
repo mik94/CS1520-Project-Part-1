@@ -43,6 +43,7 @@
 	echo $buffer;
 	echo generateNav($self) . "</div>";
 ?>
+<!--Comment-->
 	<div class="content">
 		<h2 style="line-height: 1.1em; font: normal normal normal 46px/1.4em 'jockey one',sans-serif;">
 			<span style="color:#C5B358;">About Us</span>
